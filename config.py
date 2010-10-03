@@ -65,42 +65,12 @@ PAGE = {
           "url": "/contact"},
     ],
     "featuredMyPages": {
-        "title": "Bloog Development",
-        "description": "Get involved",
+        "title": "My Pages",
+        "description": "Links to my other stuff",
         "entries": [
-            { "title": "Source Code", 
-              "url": "http://github.com/DocSavage/bloog", 
-              "description": "GitHub repository" },
-            { "title": "Tarball", 
-              "url": "http://github.com/DocSavage/bloog/tarball/master", 
-              "description": "Most recent snapshot" },
-            { "title": "Group", 
-              "url": "http://groups.google.com/group/bloog/topics", 
-              "description": "Developer discussion" },
-            { "title": "Author's Bloog", 
-              "url": "http://www.billkatz.com", 
-              "description": "What's brewing" },
-            { "title": "Architecture Diagram", 
-              "url": "/static/images/architecture2.png", 
-              "description": "RESTful Bloog" }
-        ]
-    },
-    "featuredOthersPages": {
-        "title": "Google App Engine",
-        "description": "Developer Resources",
-        "entries": [
-            { "title": "Google App Engine", 
-              "url": "http://code.google.com/appengine/", 
-              "description": "The mothership" },
-            { "title": "App Engine Group", 
-              "url": "http://groups.google.com/group/google-appengine", 
-              "description": "Developer group" },
-            { "title": "App Engine Open Source", 
-              "url": "http://groups.google.com/group/google-appengine/web/google-app-engine-open-source-projects", 
-              "description": "Code!" },
-            { "title": "App Engine Console", 
-              "url": "http://appengine.google.com", 
-              "description": "Your apps" }
+            { "title": "@dps on twitter", 
+              "url": "http://www.twiter.com/dps", 
+              "description": "My twitter profile" },
         ]
     },
 }
